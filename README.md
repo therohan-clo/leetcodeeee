@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/therohan-clo/leetcodeeee/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/therohan-clo/leetcodeeee/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/therohan-clo/leetcodeeee/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/therohan-clo/leetcodeeee/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/therohan-clo/leetcodeeee/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/therohan-clo/leetcodeeee/tree/master/0152-maximum-product-subarray) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/therohan-clo/leetcodeeee/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/therohan-clo/leetcodeeee/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/therohan-clo/leetcodeeee/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/therohan-clo/leetcodeeee/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
